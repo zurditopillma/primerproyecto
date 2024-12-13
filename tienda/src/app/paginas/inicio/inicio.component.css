@@ -1,0 +1,38 @@
+h4 {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+}
+
+.imagen-container {
+    width: 100%;  /* El contenedor ocupa todo el ancho de su contenedor padre */
+    text-align: center; /* Centra la imagen horizontalmente si el contenedor es más ancho */
+}
+
+.imagen {
+    width: 50%;  /* La imagen ocupará el 50% del ancho del contenedor */
+    height: auto; /* La altura se ajustará para mantener la proporción */
+}
+
+.carousel-item {
+    width: 100%;  /* El contenedor ocupa todo el ancho de su contenedor padre */
+    text-align: center; /* Centra la imagen horizontalmente si el contenedor es más ancho */
+}
+
+.imagen {
+    width: 50%;  /* La imagen ocupará el 50% del ancho del contenedor */
+    height: auto; /* La altura se ajustará para mantener la proporción */
+}
+
+.carousel-item {
+    width: 100%;  /* El contenedor ocupa todo el ancho de su contenedor padre */
+    text-align: center; /* Centra la imagen horizontalmente si el contenedor es más ancho */
+}
+
+.imagen {
+    width: 50%;  /* La imagen ocupará el 50% del ancho del contenedor */
+    height: auto; /* La altura se ajustará para mantener la proporción */
+}
+
+
